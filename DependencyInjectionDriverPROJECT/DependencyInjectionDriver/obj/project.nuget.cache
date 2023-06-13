@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "c2OcWhTV9rE7hyBMwMCI6JoE2iLjeqTpqBFrKyiSx24vVJ2Djwenef6lb4jWonTOFqqDpLrDtZHgUhUb18h6wQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maroo\\source\\repos\\DependencyInjectionDriver\\DependencyInjectionDriver\\DependencyInjectionDriver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maroo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\maroo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
